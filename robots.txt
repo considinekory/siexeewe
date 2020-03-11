@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laejaelaih.maggiemaun.space/sitemap.xml
